@@ -24,7 +24,7 @@ Some behaviors (translatable, timestampable, softDeletable, blameable, geocodabl
 Make sure to activate them by reading the [Subscribers](#subscribers) section.
 
 ##Installation
-```composer require knplabs/doctrine-behaviors:~1.1```
+```composer require knplabs/doctrine-behaviors:dev-master```
 
 <a name="subscribers" id="subscribers"></a>
 ## Subscribers
